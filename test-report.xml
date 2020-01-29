@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite id="0" name="C:\Users\user\Desktop\workspace\react--leaderboard-3k9lo20kfso\src\components\sort.test.js" errors="0" package="C:\Users\user\Desktop\workspace\react--leaderboard-3k9lo20kfso\src\components\sort.test.js" hostname="localhost" tests="1" failures="0" time="3.717" timestamp="2019-07-10T22:55:04">
+    <properties>
+    </properties>
+    <testcase classname="Test Sorting Components" name="button click function should be passed as a prop to all" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="1" name="C:\Users\user\Desktop\workspace\react--leaderboard-3k9lo20kfso\src\App.test.js" errors="0" package="C:\Users\user\Desktop\workspace\react--leaderboard-3k9lo20kfso\src\App.test.js" hostname="localhost" tests="2" failures="0" time="3.961" timestamp="2019-07-10T22:55:04">
+    <properties>
+    </properties>
+    <testcase classname="Test AppComponent" name="check state changes" time="0">
+    </testcase>
+    <testcase classname="Test AppComponent" name="check table rendering" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
